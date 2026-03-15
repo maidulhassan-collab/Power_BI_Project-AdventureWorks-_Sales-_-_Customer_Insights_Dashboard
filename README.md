@@ -40,14 +40,12 @@ The primary dashboard provides a high‑level snapshot of business performance. 
 These KPIs summarize overall company performance, giving immediate visibility into sales, profitability, and operational efficiency.  
 
 **Monthly Trends**  
-Revenue Trending Chart: Tracks monthly revenue from Jan 2020 to Jan 2022, showing growth patterns and seasonal fluctuations.  
-Month‑over‑Month Changes: This section highlights how performance evolves over time, making it easy to spot improvements or declines.  
+- Revenue Trending Chart: Tracks monthly revenue from Jan 2020 to Jan 2022, showing growth patterns and seasonal fluctuations.  
+- Month‑over‑Month Changes: This section highlights how performance evolves over time, making it easy to spot improvements or declines.  
 
 **Product Insights**  
-Top 10 Products Table: Lists products by orders, revenue, and return percentage. 
-
-**Category Breakdown:**
-This section identifies best‑selling products and highlights areas with higher return rates, supporting inventory and quality control decisions.  
+- Top 10 Products Table: Lists products by orders, revenue, and return percentage.  
+- Category Breakdown: This section identifies best‑selling products and highlights areas with higher return rates, supporting inventory and quality control decisions.  
 
 ### Regional Analysis  
 
@@ -65,7 +63,7 @@ This page focuses on geographic performance, showing how sales and orders vary a
 - Pacific region shows notable growth in certain product categories.  
 - Regional differences highlight market opportunities and areas where return rates or demand patterns vary.  
 
-**Purpose**
+**Purpose**  
 This page helps stakeholders understand where sales are coming from geographically, identify strong markets, and spot regions that may need targeted strategies for growth or customer engagement.  
 
 ### Product Analysis  
@@ -104,42 +102,29 @@ This page focuses on customer demographics and behavior, providing a deeper unde
 These KPIs highlight the size of the customer base and the value each customer contributes.
 
 **Demographic Analysis**
-- Orders by Income Level:  
-       - High Income: ~3K orders
-
-Average Income: ~12K orders
-
-Low Income: ~10K orders
-
-Orders by Occupation:
-
-Professionals: ~8K orders
-
-Management: ~4K orders
-
-Skilled workers: ~6K orders
-
+- Orders by Income Level: High Income, Average Income, Low Income.  
+- Orders by Occupation: Professionals, Management, Skilled workers.  
 This breakdown shows how different income groups and occupations drive demand, helping identify target customer segments.
 
-🏆 Top Customers
-Top 100 Customers Table: Lists individual customers with their orders and revenue contribution.
+**Top Customers**
+Top 100 Customers Table: Lists individual customers with their orders and revenue contribution. This section highlights loyal and high‑value customers, useful for retention strategies and personalized marketing.
 
-Example:
+**Purpose**
+This page is designed to provide customer intelligence:  
+- Who are the most valuable customers?
+- Which income and occupation groups contribute most to sales?
+- How can marketing and sales strategies be tailored to maximize customer value?
 
-Mr. Maurice Shan → 6 orders, $12.41K revenue (top customer by revenue).
+## Project Structure  
+- [AdventureWorks Sales & Customer Insights Dashboard](https://github.com/maidulhassan-collab/Power_BI_Project-AdventureWorks-_Sales-_-_Customer_Insights_Dashboard/blob/main/AdventureWorks%20Report.pbix) → Exported dashboard report.  
+- [README.md](https://github.com/maidulhassan-collab/Power_BI_Project-AdventureWorks-_Sales-_-_Customer_Insights_Dashboard/blob/main/README.md) → Project documentation (this file).
 
-Other customers contribute varying amounts, with total top 100 revenue exceeding $615K.
+## Acknowledgments  
+This project was developed as part of my portfolio to demonstrate skills in Power BI, data visualization, and business intelligence using the AdventureWorks dataset. Special thanks to Chris Dutton (Maven Analytics).
 
-This section highlights loyal and high‑value customers, useful for retention strategies and personalized marketing.
 
-🎯 Purpose
-This page is designed to provide customer intelligence:
 
-Who are the most valuable customers?
 
-Which income and occupation groups contribute most to sales?
-
-How can marketing and sales strategies be tailored to maximize customer value?
 
 
 
